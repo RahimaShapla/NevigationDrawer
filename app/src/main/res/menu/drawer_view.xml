@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nev_image"
+            android:icon="@drawable/image"
+            android:title="Image"/>
+        <item
+            android:id="@+id/video"
+            android:icon="@drawable/video"
+            android:title="Video"/>
+        <item
+            android:id="@+id/audio"
+            android:icon="@drawable/audio"
+            android:title="Audio"/>
+    </group>
+
+</menu>
